@@ -24,3 +24,21 @@ git log --pretty="format:%h %s"
 
 criar arquivo .gitignore, com nomes de arquivos e pastas nele
     o git vai ignorar esses arquivos
+
+git remote add meurepo meuendereco
+    adiciona um repositorio remoto, com o nome 'meurepo' e o endereco 'meuendereco'
+
+git remote -v
+    lista os repositorios adicionados
+
+git clone meuEndereco nomeDaPasta
+    copia pela primeira vez o projeto encontrado em 'meuEndereco' na pasta atual, com o nome 'nomeDaPasta'
+
+git push local master
+    envia para o repositorio local, o repositorio master
+
+git remote rename origin local
+    renomeia o repositorio de nome 'origin' para o nome 'local'
+
+git pull local master
+    puxa, para o meu repositorio, a branch master do repositorio de nome 'local'
