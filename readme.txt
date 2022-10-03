@@ -44,3 +44,6 @@ git remote rename origin local
 
 git pull local master
     puxa, para o meu repositorio, a branch master do repositorio de nome 'local'
+
+
+parei no cap 3, aula 4, curso de git
