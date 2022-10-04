@@ -37,7 +37,7 @@ git clone meuEndereco nomeDaPasta
     copia pela primeira vez o projeto encontrado em 'meuEndereco' na pasta atual, com o nome 'nomeDaPasta'
 
 git push local master
-    envia para o repositorio local, o repositorio master
+    envia para o repositorio chamado local, o repositorio master
 
 git remote rename origin local
     renomeia o repositorio de nome 'origin' para o nome 'local'
