@@ -46,4 +46,4 @@ git pull local master
     puxa, para o meu repositorio, a branch master do repositorio de nome 'local'
 
 
-parei no cap 3, aula 4, curso de git
+parei no cap 4, aula 1, curso de git
